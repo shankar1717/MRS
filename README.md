@@ -34,51 +34,12 @@ Delete Patient
 Project Structure:
 KnilaProject->
 src\test\java-> KnilaProject-> HealthcareApplicationTest.java
-baseClass.java
-ScreenshotListener.java
+src\test\java-> KnilaProject-> baseClass.java
+src\test\java-> KnilaProject-> ScreenshotListener.java
 
 src\test\resources-> log4j.properties file
 utilities folder: Readconfig.java - To read data from properties file
 Configuration folder: config.properties [data given in file].
-Screenshots
-Prerequisites
-
-Technologies Used:
-Language: programming language - Java
-Testing Framework: Selenium, TestNG
-Browser: Chrome browser
-OS: WINDOWS 11
-IDE Eclipse
-
-Setup Instructions:
-Clone the repository or download the source code. url: https://github.com/shankar1717/MRS.git
-Running the Automation Script
-Execute the script by running the main file run as TestNG - KnilaProject-> src\test\java-> KnilaProject-> HealthcareApplicationTest.java
-Run the test HealthcareApplicationTest to execute the tests.
-
-Test Scenarios
-1. User Login
-2. Register Patient
-3. Calculate Age
-4. Upload Attachment
-5. Verify Attachment
-6. Recent Entry
-7. Displayed BMI
-8. Calculated BMI
-9. Capture Vitals
-10. Merge Visits
-11. Add Past Visit
-12. Delete Patient
-
-Project Structure:
-KnilaProject-> 
-src\test\java-> KnilaProject-> HealthcareApplicationTest.java
-Run the test HealthcareApplicationTest to execute the tests.
-
-src\test\resourses-> log4j.properties file
-
-utilities folder: Readconfig.java - To read data from properties file
-Configuration folder - config.properties [data given in file].
 
 Screenshots
 Screenshots for each test case are available in the screenshots folder in the directory.
