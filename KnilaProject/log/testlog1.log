@@ -1,0 +1,758 @@
+2023-11-16 23:21:10,824 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-16 23:21:13,515 [main] INFO KnilaProject.HealthcareApplicationTest - Welcome to Dashboard page
+2023-11-16 23:21:29,949 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-16 23:24:23,654 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-16 23:24:27,553 [main] INFO KnilaProject.HealthcareApplicationTest - Welcome to Dashboard page
+2023-11-16 23:24:37,738 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-16 23:25:02,352 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-16 23:25:24,811 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Meassage:  The attachment was successfully uploaded.
+2023-11-16 23:25:34,262 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-16 23:25:39,686 [main] INFO KnilaProject.HealthcareApplicationTest - Visit entry with current date:16.Nov.2023  and  Attachment Upload -tag found
+2023-11-16 23:26:08,575 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI 
+2023-11-16 23:26:33,346 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-16 23:26:38,667 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '16.Nov.2023' with 'Vitals' tag is verified.
+2023-11-16 23:27:11,880 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '16.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-16 23:27:33,928 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Message:Patient has been deleted successfully
+2023-11-16 23:33:39,849 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-16 23:33:43,998 [main] INFO KnilaProject.HealthcareApplicationTest - Welcome to Dashboard page
+2023-11-16 23:33:53,969 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-16 23:34:16,363 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-16 23:34:38,297 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Meassage:  The attachment was successfully uploaded.
+2023-11-16 23:34:45,756 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-16 23:34:51,231 [main] INFO KnilaProject.HealthcareApplicationTest - Visit entry with current date:16.Nov.2023  and  Attachment Upload -tag found
+2023-11-16 23:35:13,453 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI 
+2023-11-16 23:35:35,680 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-16 23:35:40,899 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '16.Nov.2023' with 'Vitals' tag is verified.
+2023-11-16 23:36:09,669 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '16.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-16 23:36:31,746 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Message:Patient has been deleted successfully
+2023-11-16 23:57:13,838 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-16 23:57:41,435 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-16 23:57:45,215 [main] INFO KnilaProject.HealthcareApplicationTest - Welcome to Dashboard page
+2023-11-16 23:58:03,241 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-16 23:58:29,142 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-16 23:58:53,177 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Meassage:  The attachment was successfully uploaded.
+2023-11-16 23:59:00,658 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-16 23:59:06,090 [main] INFO KnilaProject.HealthcareApplicationTest - Visit entry with current date:16.Nov.2023  and  Attachment Upload -tag found
+2023-11-16 23:59:25,990 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI 
+2023-11-16 23:59:44,318 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-16 23:59:49,551 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '16.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 00:00:39,211 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Message:Patient has been deleted successfully
+2023-11-17 00:00:49,383 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 09:25:15,205 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 09:25:18,641 [main] INFO KnilaProject.HealthcareApplicationTest - Welcome to Dashboard page
+2023-11-17 09:25:28,606 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 09:25:51,131 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 09:26:10,397 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Meassage:  The attachment was successfully uploaded.
+2023-11-17 09:26:17,419 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 09:26:22,651 [main] INFO KnilaProject.HealthcareApplicationTest - Visit entry with current date:17.Nov.2023  and  Attachment Upload -tag found
+2023-11-17 09:26:40,683 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI 
+2023-11-17 09:26:58,362 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 09:27:03,570 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 09:27:32,487 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 09:27:54,052 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster Message:Patient has been deleted successfully
+2023-11-17 09:28:02,184 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 10:11:27,439 [main] INFO KnilaProject.TestLogger - Logged into Myntra
+2023-11-17 10:11:27,505 [main] INFO KnilaProject.TestLogger - true
+2023-11-17 10:11:27,742 [main] INFO KnilaProject.TestLogger - Quitting the driver
+2023-11-17 17:48:03,913 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 17:48:08,269 [main] INFO KnilaProject.HealthcareApplicationTest - Welcome to Dashboard page
+2023-11-17 20:14:49,918 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 20:14:52,246 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 20:14:59,615 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 20:15:01,675 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 20:15:01,676 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 20:15:01,677 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 20:15:03,743 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 20:15:03,802 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 20:15:03,860 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 20:15:03,929 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 20:15:14,876 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 20:15:19,972 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 20:15:19,973 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 20:15:39,653 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-17 20:15:46,752 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 20:15:51,921 [main] INFO KnilaProject.HealthcareApplicationTest - Date:17.Nov.2023
+2023-11-17 20:15:52,008 [main] INFO KnilaProject.HealthcareApplicationTest - tagElement:Attachment Upload
+2023-11-17 20:15:52,041 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:17.Nov.2023  and : Attachment Upload-tag found
+2023-11-17 20:16:10,484 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-17 20:16:10,486 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-17 20:16:10,486 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-17 20:16:28,779 [main] INFO KnilaProject.HealthcareApplicationTest - actualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-17 20:16:28,780 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 20:16:33,937 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 20:16:59,791 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 20:17:21,889 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-17 20:17:31,783 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 20:26:01,724 [main] INFO KnilaProject.TestLogger - Logged into Myntra
+2023-11-17 20:26:01,800 [main] INFO KnilaProject.TestLogger - true
+2023-11-17 20:26:01,985 [main] INFO KnilaProject.TestLogger - Quitting the driver
+2023-11-17 20:26:21,540 [main] INFO KnilaProject.TestLogger - Logged into Myntra
+2023-11-17 20:26:21,666 [main] INFO KnilaProject.TestLogger - true
+2023-11-17 20:26:21,871 [main] INFO KnilaProject.TestLogger - Quitting the driver
+2023-11-17 20:27:58,930 [main] INFO KnilaProject.TestLogger - Logged into Myntra
+2023-11-17 20:27:59,112 [main] INFO KnilaProject.TestLogger - true
+2023-11-17 20:27:59,264 [main] INFO KnilaProject.TestLogger - Quitting the driver
+2023-11-17 20:58:10,192 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 20:58:59,989 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 20:59:04,816 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 20:59:21,380 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 20:59:23,457 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 20:59:23,459 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 20:59:23,460 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 20:59:25,526 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 20:59:25,588 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 20:59:25,652 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 20:59:25,710 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 20:59:35,948 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 20:59:41,129 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 20:59:41,130 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 21:00:02,878 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-17 21:00:10,395 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 21:00:15,601 [main] INFO KnilaProject.HealthcareApplicationTest - Date:17.Nov.2023
+2023-11-17 21:00:15,709 [main] INFO KnilaProject.HealthcareApplicationTest - tagElement:Attachment Upload
+2023-11-17 21:00:15,744 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:17.Nov.2023  and : Attachment Upload-tag found
+2023-11-17 21:00:37,435 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-17 21:00:37,438 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-17 21:00:37,439 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-17 21:00:54,862 [main] INFO KnilaProject.HealthcareApplicationTest - actualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-17 21:00:54,863 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 21:01:00,172 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 21:01:24,877 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 21:01:47,533 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-17 21:01:56,535 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 21:11:50,120 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 21:11:54,072 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 21:12:01,731 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 21:12:03,816 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 21:12:03,817 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 21:12:03,819 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 21:12:05,889 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 21:12:05,950 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 21:12:06,002 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 21:12:06,050 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 21:12:27,636 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 21:12:32,819 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 21:12:32,820 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 21:12:55,352 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-17 21:13:02,518 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 21:13:07,710 [main] INFO KnilaProject.HealthcareApplicationTest - Date:17.Nov.2023
+2023-11-17 21:13:07,824 [main] INFO KnilaProject.HealthcareApplicationTest - tagElement:Attachment Upload
+2023-11-17 21:13:07,857 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:17.Nov.2023  and : Attachment Upload-tag found
+2023-11-17 21:13:31,323 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-17 21:13:31,326 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-17 21:13:31,326 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-17 21:13:47,635 [main] INFO KnilaProject.HealthcareApplicationTest - actualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-17 21:13:47,635 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 21:13:52,867 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 21:14:18,368 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 21:14:40,869 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-17 21:14:54,192 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 21:52:59,473 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 21:53:06,214 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 21:53:18,534 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 21:53:20,621 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 21:53:20,622 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 21:53:20,624 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 21:53:22,706 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 21:53:22,765 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 21:53:22,829 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 21:53:22,883 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 21:53:36,613 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 21:53:41,716 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 21:53:41,717 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 21:54:01,213 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-17 21:54:08,633 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 21:54:13,842 [main] INFO KnilaProject.HealthcareApplicationTest - Date:17.Nov.2023
+2023-11-17 21:54:13,954 [main] INFO KnilaProject.HealthcareApplicationTest - tagElement:Attachment Upload
+2023-11-17 21:54:13,982 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:17.Nov.2023  and : Attachment Upload-tag found
+2023-11-17 21:54:36,012 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-17 21:54:36,017 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-17 21:54:36,018 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-17 21:54:52,700 [main] INFO KnilaProject.HealthcareApplicationTest - actualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-17 21:54:52,701 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 21:54:57,942 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 21:55:22,757 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 21:55:44,756 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-17 21:55:54,350 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 22:01:09,724 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:01:14,418 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:01:34,642 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 22:05:26,141 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:05:30,832 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:05:48,436 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 22:05:50,494 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 22:05:50,494 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 22:05:50,496 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 22:05:52,558 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 22:05:52,625 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 22:05:52,681 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 22:05:52,728 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 22:06:04,222 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 22:06:09,379 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 22:06:09,380 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 22:08:44,845 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:08:47,458 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:08:55,157 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 22:08:57,233 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 22:08:57,233 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 22:08:57,234 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 22:17:47,865 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:17:50,405 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:17:58,054 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 22:18:00,110 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 22:18:00,110 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 22:18:00,112 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 22:18:02,175 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 22:18:02,204 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 22:18:02,237 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 22:18:02,265 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 22:18:20,503 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 22:18:25,630 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 22:18:25,631 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 22:25:12,304 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:25:14,668 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:25:21,367 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 22:25:23,432 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 22:25:23,432 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 22:25:23,433 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 22:25:25,490 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 22:25:25,521 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 22:25:25,549 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 22:25:25,580 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 22:25:34,390 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 22:25:39,470 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 22:25:39,470 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 22:27:56,932 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:27:59,539 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:28:07,129 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 22:28:09,188 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:JaneWalker
+2023-11-17 22:28:09,188 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:JaneWalker
+2023-11-17 22:28:09,189 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 22:28:11,261 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 22:28:11,302 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 22:28:11,326 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 22:28:11,358 [main] INFO KnilaProject.HealthcareApplicationTest - Phonenumber Verified
+2023-11-17 22:28:27,451 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 22:28:32,580 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 22:28:32,581 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 22:28:52,289 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-17 22:28:59,067 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 22:29:04,236 [main] INFO KnilaProject.HealthcareApplicationTest - Date:17.Nov.2023
+2023-11-17 22:29:04,301 [main] INFO KnilaProject.HealthcareApplicationTest - tagElement:Attachment Upload
+2023-11-17 22:29:04,340 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:17.Nov.2023  and : Attachment Upload-tag found
+2023-11-17 22:29:22,320 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-17 22:29:22,322 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-17 22:29:22,322 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-17 22:29:37,555 [main] INFO KnilaProject.HealthcareApplicationTest - actualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-17 22:29:37,555 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 22:29:42,726 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 22:30:05,985 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 22:30:27,986 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-17 22:30:36,853 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-17 22:32:38,667 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:32:43,404 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:54:47,777 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:54:50,119 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 22:59:13,468 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 22:59:15,816 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 23:28:02,850 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-17 23:28:05,459 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-17 23:28:12,626 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-17 23:28:14,684 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-17 23:28:14,684 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-17 23:28:14,685 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-17 23:28:16,749 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Gender: Male
+2023-11-17 23:28:16,750 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-17 23:28:16,751 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-17 23:28:16,794 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-17 23:28:16,843 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-17 23:28:16,843 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-17 23:28:16,844 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-17 23:28:16,877 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-17 23:28:16,877 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-17 23:28:16,877 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-17 23:28:35,491 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-17 23:28:40,620 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-17 23:28:40,620 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-17 23:28:40,620 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-17 23:28:40,620 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-17 23:28:59,839 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-17 23:28:59,839 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-17 23:29:06,723 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-17 23:29:11,842 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:17.Nov.2023
+2023-11-17 23:29:11,907 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-17 23:29:11,928 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:17.Nov.2023  and : Attachment Upload-tag found
+2023-11-17 23:29:30,828 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-17 23:29:30,829 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-17 23:29:30,830 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-17 23:29:45,866 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-17 23:29:45,866 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-17 23:29:45,906 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 17.Nov.2023
+2023-11-17 23:29:51,033 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '17.Nov.2023' with 'Vitals' tag is verified.
+2023-11-17 23:30:13,476 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 17.Nov.2023
+2023-11-17 23:30:13,523 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:17.Nov.2023
+2023-11-17 23:30:13,568 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '17.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-17 23:30:35,045 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-17 23:30:35,045 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-17 23:30:35,046 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-17 23:30:43,443 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-17 23:30:43,443 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 12:54:08,853 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 12:54:11,574 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 12:54:21,106 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 12:54:23,178 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 12:54:23,179 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 12:54:23,180 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 12:54:25,241 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Gender: Male
+2023-11-18 12:54:25,242 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 12:54:25,242 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 12:54:25,288 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 12:54:25,325 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 12:54:25,326 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 12:54:25,326 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 12:54:25,356 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 12:54:25,357 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 12:54:25,357 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 12:54:44,144 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 12:54:49,264 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 12:54:49,265 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 12:54:49,265 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 12:54:49,266 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 12:55:11,552 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 12:55:11,553 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 12:55:23,061 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 12:55:28,198 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 12:55:28,258 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 12:55:28,280 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 12:55:55,534 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 12:55:55,536 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 12:55:55,536 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 12:56:19,433 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 12:56:19,434 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 12:56:19,471 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 12:56:24,595 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 12:56:53,424 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 12:56:53,473 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 12:56:53,504 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 12:57:15,216 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 12:57:15,216 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 12:57:15,217 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 12:57:23,408 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 12:57:23,408 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 12:59:36,277 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 12:59:38,168 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 12:59:44,400 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 12:59:46,443 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 12:59:46,444 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 12:59:46,445 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 12:59:48,520 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Gender: Male
+2023-11-18 12:59:48,521 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 12:59:48,521 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 12:59:48,562 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 12:59:48,588 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 12:59:48,588 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 12:59:48,589 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 12:59:48,619 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 12:59:48,620 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 12:59:48,620 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 13:00:06,812 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 13:00:11,917 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 13:00:11,917 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 13:00:11,918 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 13:00:11,919 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 13:00:30,497 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 13:00:30,497 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 13:00:39,633 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 13:00:44,794 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 13:00:44,857 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 13:00:44,871 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 13:01:06,461 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 13:01:06,462 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 13:01:06,463 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 13:01:25,390 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 13:01:25,392 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 13:01:25,435 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 13:01:30,604 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 13:01:53,401 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 13:01:53,446 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 13:01:53,469 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 13:02:15,567 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 13:02:15,567 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 13:02:15,567 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 13:02:23,071 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 13:02:23,072 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 13:14:26,070 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:14:27,954 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 13:14:35,266 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 13:14:37,343 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 13:14:37,343 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 13:14:37,344 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 13:16:20,886 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:16:23,222 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 13:16:30,691 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 13:16:32,754 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 13:16:32,754 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 13:16:32,756 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 13:32:25,884 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:32:31,658 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 13:32:39,243 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 13:32:41,298 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 13:32:41,298 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 13:32:41,298 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 13:32:43,348 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 13:32:43,348 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 13:32:43,349 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 13:32:43,391 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 13:32:43,431 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 13:32:43,431 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 13:32:43,431 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 13:32:43,474 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 13:32:43,474 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 13:32:43,475 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 13:32:52,030 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 13:32:57,146 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 13:32:57,146 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 13:32:57,146 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 13:32:57,147 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 13:33:15,415 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 13:33:15,416 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 13:33:22,362 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 13:33:27,475 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 13:33:27,537 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 13:33:27,555 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 13:33:45,460 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 13:33:45,461 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 13:33:45,461 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 13:34:00,781 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 13:34:00,781 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 13:34:00,822 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 13:34:05,948 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 13:34:28,460 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 13:34:28,487 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 13:34:28,514 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 13:34:50,370 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 13:34:50,371 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 13:34:50,371 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 13:34:58,801 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 13:34:58,802 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 13:47:44,616 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:47:50,723 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 13:47:58,199 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 13:48:00,271 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 13:48:00,271 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 13:48:00,272 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 13:48:02,327 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 13:48:02,328 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 13:48:02,328 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 13:48:02,350 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 13:48:02,382 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 13:48:02,382 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 13:48:02,383 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 13:48:02,412 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 13:48:02,412 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 13:48:02,413 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 13:48:21,597 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 13:48:26,726 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 13:48:26,727 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 13:48:26,727 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 13:48:26,727 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 13:48:45,864 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 13:48:45,865 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 13:48:52,775 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 13:48:57,880 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 13:48:57,950 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 13:48:57,964 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 13:49:15,699 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 13:49:15,702 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 13:49:15,702 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 13:49:30,907 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 13:49:30,908 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 13:49:30,942 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 13:49:36,119 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 13:49:58,830 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 13:49:58,871 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 13:49:58,906 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 13:50:20,885 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 13:50:20,885 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 13:50:20,885 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 13:50:29,727 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 13:50:29,727 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 13:55:56,246 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:55:56,526 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:56:10,460 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:56:15,567 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 13:56:22,088 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 13:56:24,157 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 13:56:24,157 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 13:56:24,158 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 13:59:12,896 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 13:59:19,989 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 14:01:21,603 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:15:18,533 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:15:23,903 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 14:15:29,569 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 14:15:31,637 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 14:15:31,637 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 14:15:31,638 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 14:15:33,703 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 14:15:33,706 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 14:15:33,707 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 14:15:33,757 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 14:15:33,799 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 14:15:33,800 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 14:15:33,800 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 14:15:33,843 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 14:15:33,843 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 14:15:33,844 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 14:15:41,969 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 14:15:47,077 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 14:15:47,078 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 14:15:47,078 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 14:15:47,078 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 14:16:06,573 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 14:16:06,573 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 14:16:13,464 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 14:16:18,578 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 14:16:18,641 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 14:16:18,660 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 14:16:36,378 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 14:16:36,379 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 14:16:36,379 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 14:16:51,420 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 14:16:51,421 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 14:16:51,452 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 14:16:56,579 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 14:17:18,613 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 14:17:18,640 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 14:17:18,669 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 14:17:39,710 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 14:17:39,711 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 14:17:39,711 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 14:17:47,298 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 14:17:47,298 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 14:26:37,229 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:26:42,692 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 14:26:49,105 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 14:28:43,461 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:28:48,649 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 14:34:26,938 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:34:32,742 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 14:34:40,074 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 14:41:35,615 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:41:39,691 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:41:45,486 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:41:48,033 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:47:07,465 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 14:47:13,236 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 14:47:19,805 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 14:47:21,881 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 14:47:21,882 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 14:47:21,884 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 14:47:23,942 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 14:47:23,943 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 14:47:23,943 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 14:47:23,992 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 14:47:24,019 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 14:47:24,020 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 14:47:24,020 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 14:47:24,052 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 14:47:24,053 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 14:47:24,053 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 14:47:40,370 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 14:47:45,477 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 14:47:45,478 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 14:47:45,478 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 14:47:45,478 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 14:48:06,548 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 14:48:06,548 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 14:48:13,524 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 14:48:18,673 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 14:48:18,738 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 14:48:18,755 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 14:48:36,467 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 14:48:36,469 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 14:48:36,469 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 14:48:51,609 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 14:48:51,610 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 14:48:51,680 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 14:48:56,829 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 14:49:19,989 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 14:49:20,045 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 14:49:20,074 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 14:49:42,196 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 14:49:42,197 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 14:49:42,197 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 14:49:50,199 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 14:49:50,199 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 15:04:10,016 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 15:04:15,952 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 15:06:30,282 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 15:06:36,450 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 15:06:43,431 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 15:06:45,487 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 15:06:45,487 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 15:06:45,489 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 15:06:47,550 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 15:06:47,551 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 15:06:47,551 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 15:06:47,587 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 15:06:47,613 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 15:06:47,613 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 15:06:47,613 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 15:06:47,640 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 15:06:47,641 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 15:06:47,641 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 15:07:00,437 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 15:07:05,557 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 15:07:05,557 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 15:07:05,557 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 15:07:05,557 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 15:07:30,289 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 15:07:30,289 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 15:07:37,283 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 15:07:42,461 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 15:07:42,524 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 15:07:42,540 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 15:08:00,220 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 15:08:00,223 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 15:08:00,223 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 15:08:15,664 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 15:08:15,664 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 15:08:15,720 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 15:08:20,889 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 15:08:45,033 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 15:08:45,087 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 15:08:45,121 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 15:09:07,399 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 15:09:07,400 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 15:09:07,400 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 15:09:16,676 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 15:09:16,676 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 15:58:18,528 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 15:58:36,556 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 15:58:48,414 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 15:58:50,497 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 15:58:50,498 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 15:58:50,500 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 15:58:52,549 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 15:58:52,550 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 15:58:52,550 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 15:58:52,587 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 15:58:52,616 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 15:58:52,618 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 15:58:52,619 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 15:58:52,652 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 15:58:52,653 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 15:58:52,654 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 15:59:03,992 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 15:59:09,140 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 15:59:09,141 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 15:59:09,143 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 15:59:09,144 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 15:59:28,942 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 15:59:28,944 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 15:59:38,346 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 15:59:43,855 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 15:59:43,982 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 15:59:44,022 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 16:00:03,674 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 16:00:03,677 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 16:00:03,678 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 16:00:20,444 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 16:00:20,444 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 16:00:20,495 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 16:00:25,610 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 16:00:49,286 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 16:00:49,364 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 16:00:49,415 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 16:01:11,425 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 16:01:11,425 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 16:01:11,426 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 16:01:20,639 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 16:01:20,640 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 16:04:47,272 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 16:05:03,014 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 16:05:23,522 [main] INFO KnilaProject.HealthcareApplicationTest - Patient details Entered suceesfully
+2023-11-18 16:05:25,602 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Name:Jane,Walker
+2023-11-18 16:05:25,604 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Name:Jane,Walker
+2023-11-18 16:05:25,604 [main] INFO KnilaProject.HealthcareApplicationTest - Patient Name Verified
+2023-11-18 16:05:27,670 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Gender:Male
+2023-11-18 16:05:27,672 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Gender:Male
+2023-11-18 16:05:27,673 [main] INFO KnilaProject.HealthcareApplicationTest - Gender verified
+2023-11-18 16:05:27,733 [main] INFO KnilaProject.HealthcareApplicationTest - Birthdate verified
+2023-11-18 16:05:27,792 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 16:05:27,793 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Address:13B Block, Newyork, NY, US, 1022
+2023-11-18 16:05:27,794 [main] INFO KnilaProject.HealthcareApplicationTest - Address Verified
+2023-11-18 16:05:27,856 [main] INFO KnilaProject.HealthcareApplicationTest - Actual PhoneNumber:9884098840
+2023-11-18 16:05:27,857 [main] INFO KnilaProject.HealthcareApplicationTest - Expected PhoneNumber:9884098840
+2023-11-18 16:05:27,857 [main] INFO KnilaProject.HealthcareApplicationTest - PhoneNumber Verified
+2023-11-18 16:05:38,825 [main] INFO KnilaProject.HealthcareApplicationTest - Redirected to patient details page
+2023-11-18 16:05:43,959 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Age:23
+2023-11-18 16:05:43,960 [main] INFO KnilaProject.HealthcareApplicationTest - Expected Age:23
+2023-11-18 16:05:43,960 [main] INFO KnilaProject.HealthcareApplicationTest - Age is verified calculated correctly based on the date of birth provided
+2023-11-18 16:05:43,960 [main] INFO KnilaProject.HealthcareApplicationTest - Age is calculated correctly based on the date of birth provided
+2023-11-18 16:06:03,566 [main] INFO KnilaProject.HealthcareApplicationTest - ActualPopupText: The attachment was successfully uploaded.
+ExpectedPopupText: The attachment was successfully uploaded.
+2023-11-18 16:06:03,568 [main] INFO KnilaProject.HealthcareApplicationTest - Toaster message is Displayed for the successful attachment
+2023-11-18 16:06:12,921 [main] INFO KnilaProject.HealthcareApplicationTest - Attachment section has attachment
+2023-11-18 16:06:18,293 [main] INFO KnilaProject.HealthcareApplicationTest - Actual Date:18.Nov.2023
+2023-11-18 16:06:18,359 [main] INFO KnilaProject.HealthcareApplicationTest - Expected tagElement:Attachment Upload
+2023-11-18 16:06:18,378 [main] INFO KnilaProject.HealthcareApplicationTest - Verfied Recent entry with current date:18.Nov.2023  and : Attachment Upload-tag found
+2023-11-18 16:06:40,793 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual displayedBMI:22.2
+2023-11-18 16:06:40,795 [main] INFO KnilaProject.HealthcareApplicationTest -  ExpectedBMI:22.2
+2023-11-18 16:06:40,795 [main] INFO KnilaProject.HealthcareApplicationTest - Verified displayed BMI is calculated using BMI formula
+2023-11-18 16:06:57,682 [main] INFO KnilaProject.HealthcareApplicationTest -  ActualHeight: 150cm
+ actualWeight: 50kg
+ actualBMI: 22.2
+2023-11-18 16:06:57,683 [main] INFO KnilaProject.HealthcareApplicationTest - In Patient details screen, verified the given Height, Weight and BMI
+2023-11-18 16:06:57,775 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 16:07:02,948 [main] INFO KnilaProject.HealthcareApplicationTest - New entry for current date '18.Nov.2023' with 'Vitals' tag is verified.
+2023-11-18 16:07:26,683 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Current Date: 18.Nov.2023
+2023-11-18 16:07:26,739 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual Date:18.Nov.2023
+2023-11-18 16:07:26,800 [main] INFO KnilaProject.HealthcareApplicationTest - One entry for current date '18.Nov.2023'and'Vitals, Attachment Upload'tags is verified.
+2023-11-18 16:07:49,561 [main] INFO KnilaProject.HealthcareApplicationTest -  Actual ToasterText: Patient has been deleted successfully
+2023-11-18 16:07:49,564 [main] INFO KnilaProject.HealthcareApplicationTest -  Expected Toaster:Patient has been deleted successfully
+2023-11-18 16:07:49,566 [main] INFO KnilaProject.HealthcareApplicationTest -  Verifeid Toaster Message and Displayed:Patient has been deleted successfully
+2023-11-18 16:07:59,598 [main] INFO KnilaProject.HealthcareApplicationTest -  Search ResultNo matching records found
+2023-11-18 16:07:59,599 [main] INFO KnilaProject.HealthcareApplicationTest - Verified that the deleted patient is not listed in the Find Patient Record menu.
+2023-11-18 16:14:24,431 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 16:14:38,145 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-18 16:21:23,156 [main] INFO KnilaProject.HealthcareApplicationTest - Webpage Launched
+2023-11-18 16:21:35,724 [main] INFO KnilaProject.HealthcareApplicationTest - Dashboard page is Displayed
