@@ -32,7 +32,6 @@ public class HealthcareApplicationTest extends Baseclass {
 	public static Logger log = Logger.getLogger(HealthcareApplicationTest.class);
 	public WebDriverWait wait;
 	Select select;
-	Common common =new Common(driver);
 
 	// patient details
 	String givenName = "Jane";
