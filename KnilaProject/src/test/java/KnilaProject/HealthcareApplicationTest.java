@@ -33,7 +33,7 @@ public class HealthcareApplicationTest extends Baseclass {
 	public WebDriverWait wait;
 	Select select;
 
-	// patient details
+	// patient detailss
 	String givenName = "Jane";
 	String fName = "Walker";
 	String gender = "Male";
