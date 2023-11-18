@@ -51,5 +51,4 @@ Test execution logs can be found in the logs folder in the directory.
 Submission
 The completed code for this assignment can be found in the repository.
 To review the code, clone or download the repository and follow the setup instructions to run the automation script: MRS Repository
-url: https://github.com/shankar1717/MRS.git
 
